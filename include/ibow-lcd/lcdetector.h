@@ -31,7 +31,7 @@
 #include <vector>
 
 #include "ibow-lcd/island.h"
-#include "obindex2/binary_index.h"
+#include "obindex2/lib/include/obindex2/binary_index.h"
 
 namespace ibow_lcd {
 
